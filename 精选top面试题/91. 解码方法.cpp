@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/decode-ways/
-// Author : Gu
+// Author : GuoQiang Yao
 // Date : 2022-7-24
 /**************************************************************************************　　
 一条包含字母 A-Z 的消息通过以下映射进行了 编码 ：
